@@ -1,0 +1,116 @@
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\ApplicationInsights.config
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\roslyn\csc.exe
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\roslyn\System.Collections.Immutable.dll
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\roslyn\vbc.exe
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\roslyn\VBCSCompiler.exe
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\roslyn\VBCSCompiler.exe.config
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\WebApplication22.dll.config
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\WebApplication22.dll
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\WebApplication22.pdb
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\Microsoft.AI.Web.dll
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\Microsoft.AI.WindowsServer.dll
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\Microsoft.ApplicationInsights.dll
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\Microsoft.Web.Infrastructure.dll
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\Newtonsoft.Json.dll
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\System.Net.Http.Formatting.dll
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\System.Web.Helpers.dll
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\System.Web.Http.dll
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\System.Web.Http.WebHost.dll
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\System.Web.Mvc.dll
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\System.Web.Razor.dll
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\System.Web.Webpages.Deployment.dll
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\System.Web.Webpages.dll
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\System.Web.Webpages.Razor.dll
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\Microsoft.AI.Web.xml
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\Microsoft.AI.WindowsServer.xml
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\Microsoft.ApplicationInsights.xml
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\Newtonsoft.Json.xml
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\System.Net.Http.Formatting.xml
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\System.Web.Http.xml
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\System.Web.Http.WebHost.xml
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\System.Web.Razor.xml
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\System.Web.Webpages.xml
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\System.Web.Webpages.Deployment.xml
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\System.Web.Webpages.Razor.xml
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\System.Web.Helpers.xml
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\System.Web.Mvc.xml
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\obj\Debug\WebApplication22.csprojResolveAssemblyReference.cache
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\obj\Debug\WebApplication22.dll
+c:\users\lezlee\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\obj\Debug\WebApplication22.pdb
+C:\Users\LEZLEE\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\EntityFramework.dll
+C:\Users\LEZLEE\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\EntityFramework.SqlServer.dll
+C:\Users\LEZLEE\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\EntityFramework.xml
+C:\Users\LEZLEE\documents\visual studio 2015\Projects\WebApplication22\WebApplication22\bin\EntityFramework.SqlServer.xml
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\ApplicationInsights.config
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\roslyn\csc.exe
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\roslyn\vbc.exe
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\roslyn\VBCSCompiler.exe
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\WebApplication22.dll.config
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\WebApplication22.dll
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\WebApplication22.pdb
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\EntityFramework.dll
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\EntityFramework.SqlServer.dll
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\Microsoft.AI.Web.dll
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\Newtonsoft.Json.dll
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\System.Net.Http.Formatting.dll
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\System.Web.Helpers.dll
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\System.Web.Http.dll
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\System.Web.Http.WebHost.dll
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\System.Web.Mvc.dll
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\System.Web.Razor.dll
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\System.Web.Webpages.dll
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\System.Web.Webpages.Razor.dll
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\EntityFramework.xml
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\EntityFramework.SqlServer.xml
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\Microsoft.AI.Web.xml
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\Newtonsoft.Json.xml
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\System.Net.Http.Formatting.xml
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\System.Web.Http.xml
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\System.Web.Http.WebHost.xml
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\System.Web.Razor.xml
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\System.Web.Webpages.xml
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\System.Web.Webpages.Razor.xml
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\System.Web.Helpers.xml
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\bin\System.Web.Mvc.xml
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\obj\Debug\WebApplication22.csprojResolveAssemblyReference.cache
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\obj\Debug\WebApplication22.dll
+C:\Users\Unda-dawG\Desktop\WebApplication22\WebApplication22\obj\Debug\WebApplication22.pdb

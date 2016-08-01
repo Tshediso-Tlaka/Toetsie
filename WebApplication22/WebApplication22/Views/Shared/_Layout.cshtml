@@ -1,0 +1,52 @@
+﻿@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title></title>
+    <link href="~/StyleSheet1.css" rel="stylesheet" />
+    <link href="~/style.css" rel="stylesheet" />
+</head>
+<body>
+    <div id="wrapper">
+        <div id="header">
+            <div id="logo">
+                <h1><a href="#">BizMan</a></h1>
+            </div>
+            <div id="slogan">
+                <h2>Creatively <b>Bold</b></h2>
+            </div>
+        </div>
+        <div id="menu">
+            <ul>
+                <li>@Html.ActionLink("Home", "Homep")</li>
+                <li>@Html.ActionLink("Business Evaluation", "Index")</li>
+                <li>@Html.ActionLink("Evaluate Data", "TotalSummary")</li>
+                <li>@Html.ActionLink("Resources", "Resources")</li>
+                <li>@Html.ActionLink("Data Management", "DataManagement")</li>
+                <li align="right"> @Html.ActionLink("Sign Up", "Registration")</li>
+                <li align="right"> @Html.ActionLink("Login", "Login")</li>
+            </ul>
+            <br class="clearfix" />
+            <div id="splash">
+                
+        </div>
+    </div>
+
+    <div id="page">
+        <div id="content">
+            @RenderBody()
+        </div>
+        <br class="clearfix" />
+    </div>     
+    <div id="footer">        
+        copyright © BizMan.com
+    </div>
+   </div>
+
+</body>
+</html>
