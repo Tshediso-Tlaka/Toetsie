@@ -130,7 +130,6 @@
     <Content Include="Media\unfriended.jpg" />
     <Content Include="Media\unfriended2.jpg" />
     <Content Include="RegistrationPage.aspx" />
-    <Content Include="ReportPage.aspx" />
     <Content Include="Shoppingcart.aspx" />
     <Content Include="SoftA.aspx" />
     <Content Include="Styles\StyleSheet.css" />
@@ -221,13 +220,6 @@
       <DependentUpon>RegistrationPage.aspx</DependentUpon>
       <SubType>ASPXCodebehind</SubType>
     </Compile>
-    <Compile Include="ReportPage.aspx.designer.vb">
-      <DependentUpon>ReportPage.aspx</DependentUpon>
-    </Compile>
-    <Compile Include="ReportPage.aspx.vb">
-      <DependentUpon>ReportPage.aspx</DependentUpon>
-      <SubType>ASPXCodebehind</SubType>
-    </Compile>
     <Compile Include="Secrecy.vb" />
     <Compile Include="Shoppingcart.aspx.designer.vb">
       <DependentUpon>Shoppingcart.aspx</DependentUpon>
@@ -270,7 +262,6 @@
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
     </EmbeddedResource>
-    <EmbeddedResource Include="Report1.rdlc" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="MasterPage.Master" />

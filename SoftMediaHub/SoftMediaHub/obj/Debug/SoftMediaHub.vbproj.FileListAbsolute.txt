@@ -46,3 +46,11 @@ C:\Users\TLAKA TM\Documents\TS 2015\IFM\Practicals\SoftMediaHub\SoftMediaHub\Sof
 C:\Users\TLAKA TM\Documents\TS 2015\IFM\Practicals\SoftMediaHub\SoftMediaHub\SoftMediaHub\obj\Debug\SoftMediaHub.dll
 C:\Users\TLAKA TM\Documents\TS 2015\IFM\Practicals\SoftMediaHub\SoftMediaHub\SoftMediaHub\obj\Debug\SoftMediaHub.xml
 C:\Users\TLAKA TM\Documents\TS 2015\IFM\Practicals\SoftMediaHub\SoftMediaHub\SoftMediaHub\obj\Debug\SoftMediaHub.pdb
+C:\Users\TLAKA TM\Documents\TS 2016\IFM A\Project\Repository\SoftMediaHub\SoftMediaHub\obj\Debug\SoftMediaHub.vbprojResolveAssemblyReference.cache
+C:\Users\TLAKA TM\Documents\TS 2016\IFM A\Project\Repository\SoftMediaHub\SoftMediaHub\obj\Debug\SoftMediaHub.Resources.resources
+C:\Users\TLAKA TM\Documents\TS 2016\IFM A\Project\Repository\SoftMediaHub\SoftMediaHub\obj\Debug\SoftMediaHub.vbproj.GenerateResource.Cache
+C:\Users\TLAKA TM\Documents\TS 2016\IFM A\Project\Repository\SoftMediaHub\SoftMediaHub\obj\Debug\RdlCompile.cache
+C:\Users\TLAKA TM\Documents\TS 2016\IFM A\Project\Repository\SoftMediaHub\SoftMediaHub\obj\Debug\RdlCompile.compiled
+C:\Users\TLAKA TM\Documents\TS 2016\IFM A\Project\Repository\SoftMediaHub\SoftMediaHub\obj\Debug\SoftMediaHub.dll
+C:\Users\TLAKA TM\Documents\TS 2016\IFM A\Project\Repository\SoftMediaHub\SoftMediaHub\obj\Debug\SoftMediaHub.xml
+C:\Users\TLAKA TM\Documents\TS 2016\IFM A\Project\Repository\SoftMediaHub\SoftMediaHub\obj\Debug\SoftMediaHub.pdb
