@@ -1,0 +1,29 @@
+﻿body {
+
+     background-image:url(/Media/tumblr_mrak5eAh8Z1qih3ojo2_500.gif);
+     background-color:black;
+     background-size:cover;
+     background-repeat:no-repeat;
+     background-attachment:fixed;
+    
+}
+
+#MainBody {
+   margin-left : 30px;
+    margin-top : auto;
+    margin-right : 30px;
+    margin-bottom : auto;
+    background-position:initial;
+    background-color:orange;
+}
+
+.td {
+    margin:auto;
+    text-align:center;
+
+}
+media
+#td2 {
+     margin:auto;
+    padding-left: 15%;
+}
