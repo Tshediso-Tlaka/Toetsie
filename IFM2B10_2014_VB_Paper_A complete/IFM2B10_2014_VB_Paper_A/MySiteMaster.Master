@@ -1,0 +1,52 @@
+﻿<%@ Master Language="VB" AutoEventWireup="false" CodeBehind="MySiteMaster.master.vb" Inherits="IFM2B10_2014_VB_Paper_A.MySiteMaster" %>
+
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head runat="server">
+    <title>IFM2B10 Practical Semester Test</title>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+   <link href="Styles/MyCSS.css" rel="stylesheet" />
+</head>
+
+<body>
+    <div class="mainContentDiv">
+        
+        <table style="margin-left:auto;margin-right:auto;">
+            <tr>
+                <td><img alt="UJ Logo" height="150" width="150" src="App_Media/ujLogo2.png"/></td>
+                <td><h2>Academy of Computer Science and Software Engineering</h2> <h3>IFM2B10 Practical Semester Test: Paper A (VB)</h3></td>
+            </tr>
+        </table>
+        <h4>Student Number:_______201203825_______</h4>
+
+            <table">
+                <tr>
+                <td>
+                    <ul>
+                      <li>
+                          <a href ="LogIn.aspx">Log In</a>
+                     </li>
+                     <li>
+                          <a href="CarCatalog.aspx">Car List</a>
+                     </li>
+                        <li>
+                          <a href ="LogOut.aspx">Log Out</a>
+                     </li>
+                  </ul>
+               </td>
+            </tr>
+            </table>
+
+        <div class="innerContent">
+            <form id="frmMainForm" runat="server">
+            <div>
+                <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+                </asp:ContentPlaceHolder>
+            </div>
+            </form>
+        </div>
+    </div>
+</body>
+</html>

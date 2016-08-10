@@ -1,0 +1,532 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+IFM2B10_2014_VB_Paper_A
+</name>
+</assembly>
+<members>
+<member name="F:IFM2B10_2014_VB_Paper_A.LogIn.lblUserName">
+	<summary>
+lblUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.LogIn.txtUserName">
+	<summary>
+txtUserName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.LogIn.lblpassword">
+	<summary>
+lblpassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.LogIn.txtpassword">
+	<summary>
+txtpassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.LogIn.btnLogIn">
+	<summary>
+btnLogIn control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.LogIn.btnLogOut">
+	<summary>
+btnLogOut control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.LogIn.lblMessage">
+	<summary>
+lblMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Add.lblMake">
+	<summary>
+lblMake control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Add.txtMake">
+	<summary>
+txtMake control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Add.lblModel">
+	<summary>
+lblModel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Add.txtModel">
+	<summary>
+txtModel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Add.lblYear">
+	<summary>
+lblYear control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Add.txtYear">
+	<summary>
+txtYear control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Add.lblMileage">
+	<summary>
+lblMileage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Add.txtMileage">
+	<summary>
+txtMileage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Add.lblShortDescription">
+	<summary>
+lblShortDescription control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Add.txtShortDescription">
+	<summary>
+txtShortDescription control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Add.lblFullDescription">
+	<summary>
+lblFullDescription control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Add.txtFullDescription">
+	<summary>
+txtFullDescription control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Add.lblImageLocation">
+	<summary>
+lblImageLocation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Add.lblAvailable">
+	<summary>
+lblAvailable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Add.txtAvailable">
+	<summary>
+txtAvailable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Add.btnAdd">
+	<summary>
+btnAdd control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Add.btnLogOut">
+	<summary>
+btnLogOut control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.CarDetail.Info">
+	<summary>
+Info control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.MySiteMaster.head">
+	<summary>
+head control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.MySiteMaster.frmMainForm">
+	<summary>
+frmMainForm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.MySiteMaster.ContentPlaceHolder1">
+	<summary>
+ContentPlaceHolder1 control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="P:IFM2B10_2014_VB_Paper_A.My.MyWebExtension.Computer">
+	<summary>
+ Returns information about the host computer.
+ </summary>
+</member><member name="P:IFM2B10_2014_VB_Paper_A.My.MyWebExtension.User">
+	<summary>
+ Returns information for the current Web user.
+ </summary>
+</member><member name="P:IFM2B10_2014_VB_Paper_A.My.MyWebExtension.Request">
+	<summary>
+ Returns Request object.
+ </summary>
+</member><member name="P:IFM2B10_2014_VB_Paper_A.My.MyWebExtension.Response">
+	<summary>
+ Returns Response object.
+ </summary>
+</member><member name="P:IFM2B10_2014_VB_Paper_A.My.MyWebExtension.Log">
+	<summary>
+ Returns the Asp log object.
+ </summary>
+</member><member name="T:IFM2B10_2014_VB_Paper_A.My.MyWebExtension">
+	<summary>
+ Module used to define the properties that are available in the My Namespace for Web projects.
+ </summary>
+	<remarks></remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Update.lblMake">
+	<summary>
+lblMake control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Update.txtMake">
+	<summary>
+txtMake control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Update.lblModel">
+	<summary>
+lblModel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Update.txtModel">
+	<summary>
+txtModel control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Update.lblYear">
+	<summary>
+lblYear control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Update.txtYear">
+	<summary>
+txtYear control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Update.lblMileage">
+	<summary>
+lblMileage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Update.txtMileage">
+	<summary>
+txtMileage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Update.lblShortDescription">
+	<summary>
+lblShortDescription control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Update.txtShortDescription">
+	<summary>
+txtShortDescription control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Update.lblFullDescription">
+	<summary>
+lblFullDescription control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Update.txtFullDescription">
+	<summary>
+txtFullDescription control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Update.lblImageLocation">
+	<summary>
+lblImageLocation control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Update.txtImage">
+	<summary>
+txtImage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Update.lblAvailable">
+	<summary>
+lblAvailable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Update.txtAvailable">
+	<summary>
+txtAvailable control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Update.btnUpdate">
+	<summary>
+btnUpdate control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Registration.lblTitle">
+	<summary>
+lblTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Registration.ddlTitle">
+	<summary>
+ddlTitle control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Registration.lblFirstName">
+	<summary>
+lblFirstName control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Registration.txtFN">
+	<summary>
+txtFN control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Registration.lblSurname">
+	<summary>
+lblSurname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Registration.txtSurname">
+	<summary>
+txtSurname control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Registration.lblEmail">
+	<summary>
+lblEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Registration.txtEmail">
+	<summary>
+txtEmail control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Registration.lblUsername">
+	<summary>
+lblUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Registration.txtUsername">
+	<summary>
+txtUsername control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Registration.lblPassword">
+	<summary>
+lblPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Registration.txtPassword">
+	<summary>
+txtPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Registration.lblConfirmPassword">
+	<summary>
+lblConfirmPassword control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Registration.txtConfirm">
+	<summary>
+txtConfirm control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Registration.btnSummit">
+	<summary>
+btnSummit control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.Registration.lblMessage">
+	<summary>
+lblMessage control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member><member name="F:IFM2B10_2014_VB_Paper_A.CarCatalog.product">
+	<summary>
+product control.
+</summary>
+	<remarks>
+Auto-generated field.
+To modify move field declaration from designer file to code-behind file.
+</remarks>
+</member>
+</members>
+</doc>
